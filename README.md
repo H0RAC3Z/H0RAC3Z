@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Game Development. I am also in my second year of my software engineering bachelor's degree(2/5).
 - 📫 Reach me at horace-zeng@outlook.com.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I like gaming, food, and money.
+- ⚡ Fun fact: I like gaming and food.

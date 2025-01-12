@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @H0RAC3Z
-- 👀 I’m interested in game asset and game creation, leetcoding, and a career in the software industry.
+- 👀 I’m interested in game asset and game development, leetcoding, and a career in the software industry.
 - 🌱 I’m currently learning Game Development. I am also in my second year of my software engineering bachelor's degree(2/5).
 - 📫 Reach me at horace-zeng@outlook.com.
 - 😄 Pronouns: he/him.

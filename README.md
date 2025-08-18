@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @H0RAC3Z
+- 👋 Hello, I’m Horace Zeng
 - 👀 I’m interested in game asset and game development, leetcoding, and a career in the software industry.
 - 🌱 I am in my third year of my software engineering bachelor's degree(3/5).
 - 📫 Reach me at horace-zeng@outlook.com or horace.zeng@ontariotechu.net.
